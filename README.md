@@ -35,7 +35,7 @@ Technical Degree in **Systems Development (SENAI Campinas)**. Currently studying
   <img 
     align="left" 
     alt="Top Languages" 
-    height="180" 
+    height="190" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaScassa&layout=compact&theme=tokyonight&hide=html,css" 
   />
 
