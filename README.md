@@ -8,8 +8,6 @@ Technical Degree in **Systems Development (SENAI Campinas)**. Currently studying
 
 ### 🛠️ Technologies
 
-<h3>🚀 Tecnologias</h3>
-
 <p><strong>Frontend</strong></p>
 <p align="left">
   <img alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -27,13 +25,13 @@ Technical Degree in **Systems Development (SENAI Campinas)**. Currently studying
   <img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </p>
 
-<p><strong>Banco de Dados</strong></p>
+<p><strong>Database</strong></p>
 <p align="left">
   <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="PostgreSQL" title="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
-<p><strong>Ferramentas</strong></p>
+<p><strong>Tools</strong></p>
 <p align="left">
   <img alt="Docker" title="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </p>
