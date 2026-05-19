@@ -24,6 +24,9 @@ Technical Degree in **Systems Development (SENAI Campinas)**. Currently studying
   <img alt="Django" title="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img alt="FastAPI" title="FastAPI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   <img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img alt="Celery" title="Celery" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg"/> 
+  <img alt="Redis" title="Redis" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/> 
+  <img alt="RabbitMQ" title="RabbitMQ" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/> </p>
 </p>
 
 <p><strong>Database</strong></p>
