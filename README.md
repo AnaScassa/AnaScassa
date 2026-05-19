@@ -14,19 +14,17 @@ Technical Degree in **Systems Development (SENAI Campinas)**. Currently studying
   <img alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="TypeScript" title="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 </p>
 
 <p><strong>Backend</strong></p>
 <p align="left">
   <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="Django" title="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img alt="FastAPI" title="FastAPI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   <img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img alt="Celery" title="Celery" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg"/> 
+  <img alt="API" title="API" width="35px" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png"/>
+  <img alt="Celery" title="Celery" width="35px" src="https://www.vectorlogo.zone/logos/celeryproject/celeryproject-icon.svg"/>
   <img alt="Redis" title="Redis" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/> 
-  <img alt="RabbitMQ" title="RabbitMQ" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/> </p>
+  <img alt="RabbitMQ" title="RabbitMQ" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
 </p>
 
 <p><strong>Database</strong></p>
@@ -38,6 +36,12 @@ Technical Degree in **Systems Development (SENAI Campinas)**. Currently studying
 <p><strong>Tools</strong></p>
 <p align="left">
   <img alt="Docker" title="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+</p>
+
+<p><strong>Frameworks</strong></p>
+<p align="left">
+  <img alt="Django" title="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </p>
 
 ---
