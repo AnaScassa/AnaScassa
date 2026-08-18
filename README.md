@@ -25,6 +25,7 @@ Technical Degree in **Systems Development (SENAI Campinas)**. Currently studying
   <img alt="Celery" title="Celery" width="35px" src="https://cdn.simpleicons.org/celery"/>
   <img alt="Redis" title="Redis" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/> 
   <img alt="RabbitMQ" title="RabbitMQ" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
+  <img alt="Kong" tittle="KongAPI" width="35px" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/kong/default.svg" />
 </p>
 
 <p><strong>Database</strong></p>
