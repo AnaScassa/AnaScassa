@@ -26,7 +26,7 @@ Technical Degree in **Systems Development (SENAI Campinas)**. Currently studying
   <img alt="Redis" title="Redis" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/> 
   <img alt="RabbitMQ" title="RabbitMQ" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
   <img alt="Kong" tittle="KongAPI" width="35px" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/kong/default.svg" />
-  <img alt="Apache APISIX" title="Apache APISIX" width="35px" src="https://apache.googlesource.com/apisix-dashboard/+/d71816d8a884d99193798dea706d7785a3f1179e/src/assets/logo.svg?format=TEXT"/>
+  <img alt="Apache APISIX" title="Apache APISIX" width="35px" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-apisix/default.svg"/>
 </p>
 
 <p><strong>Database</strong></p>
